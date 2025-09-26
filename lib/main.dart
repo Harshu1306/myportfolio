@@ -114,7 +114,7 @@ class HomePage extends StatelessWidget {
             ),
             const SizedBox(height: 8),
             Text(
-              "AI & ML Enthusiast • Flutter Developer",
+              "AI & ML Enthusiast",
               style: TextStyle(
                 fontSize: 18,
                 color: Colors.grey[700],

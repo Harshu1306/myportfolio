@@ -63024,7 +63024,7 @@ $0(){return A.aam(this.a,"/projects",t.X)},
 $S:0}
 A.BP.prototype={
 P(a){var s=null,r=A.a9b(!0,0,B.LU),q=A.d([B.i,B.jL],t.t_),p=t.F
-return A.aaw(r,A.Ay(s,A.nj(A.d([A.Ay(s,B.xT,B.J,s,new A.dc(s,s,s,s,A.d([new A.dm(0,B.j6,B.yU,B.Ey,20)],t.sq),s,B.dB),s,s,s,s,s,s,s),B.HK,A.hC("Harshitha Patwari",A.k2(s,s,B.jU,s,s,s,s,s,s,s,s,32,s,s,B.bY,s,s,!0,s,1.2,s,s,s,s,s,s),s),B.bK,A.hC("AI & ML Enthusiast \u2022 Flutter Developer",A.k2(s,s,B.bu,s,s,s,s,s,s,s,s,18,B.hr,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.eV),B.vg,A.aau(A.d([this.EB(a,B.ku,"About Me","/about"),B.HH,this.EB(a,B.kv,"Projects","/projects")],p),B.bv,B.hO,B.em,0),B.vg,A.hC("\ud83d\ude80 Passionate about building impactful solutions.",A.k2(s,s,B.bX,s,s,s,s,s,s,s,s,16,s,s,B.a5,s,s,!0,s,s,s,s,s,s,s,s),s)],p),B.bv,B.hO),B.J,s,new A.dc(s,s,s,s,s,new A.nS(B.j1,B.j0,B.dp,q,s,s),B.aS),s,s,s,B.fU,s,s,1/0),B.wd)},
+return A.aaw(r,A.Ay(s,A.nj(A.d([A.Ay(s,B.xT,B.J,s,new A.dc(s,s,s,s,A.d([new A.dm(0,B.j6,B.yU,B.Ey,20)],t.sq),s,B.dB),s,s,s,s,s,s,s),B.HK,A.hC("Harshitha Patwari",A.k2(s,s,B.jU,s,s,s,s,s,s,s,s,32,s,s,B.bY,s,s,!0,s,1.2,s,s,s,s,s,s),s),B.bK,A.hC("AI & ML Enthusiast",A.k2(s,s,B.bu,s,s,s,s,s,s,s,s,18,B.hr,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.eV),B.vg,A.aau(A.d([this.EB(a,B.ku,"About Me","/about"),B.HH,this.EB(a,B.kv,"Projects","/projects")],p),B.bv,B.hO,B.em,0),B.vg,A.hC("\ud83d\ude80 Passionate about building impactful solutions.",A.k2(s,s,B.bX,s,s,s,s,s,s,s,s,16,s,s,B.a5,s,s,!0,s,s,s,s,s,s,s,s),s)],p),B.bv,B.hO),B.J,s,new A.dc(s,s,s,s,s,new A.nS(B.j1,B.j0,B.dp,q,s,s),B.aS),s,s,s,B.fU,s,s,1/0),B.wd)},
 EB(a,b,c,d){var s=null
 return A.amf(A.adC(b,B.i,s),A.hC(c,s,s),new A.RO(a,d),A.amg(s,s,B.k1,s,s,s,5,s,s,s,s,s,B.zF,s,new A.c9(A.NF(30),B.o),s,s,s,B.vx,s))}}
 A.RO.prototype={
